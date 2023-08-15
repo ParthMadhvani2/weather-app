@@ -1,10 +1,10 @@
 # weather-app
 
-Watch it LIVE! 🎉 -> https://parthmadhvani2.github.io/weather_app/
+Watch it LIVE! 🎉 -> https://parthmadhvani2.github.io/weather-app/
 
-What the project does? 🤔 --> Show the current temperature of any city in the world (with a current location button) ⛅
+What does the project do? 🤔 --> Show the current temperature of any city in the world (with a current location button) ⛅
 
-Why the project is useful? ⭐ --> Allows to research in real time the current 🎉
+Why the project is useful? ⭐ --> Allows researching in real time the current 🎉
 
 Where you can get help with this project / get in contact? 🙋‍♀️💌 --> Contact me via LinkedIn (https://www.linkedin.com/in/parthmadhvani2/).
 
