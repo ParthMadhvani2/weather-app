@@ -15,8 +15,8 @@
 .wrapper{
     width:100vw;
     height:100vh;
-    color: rgba(0, 0, 0, 0.727);
-    background-color:whitesmoke;
+    color: #2b3442;
+    background-color:#f6f8ff;
 }
 
 h1 {
@@ -38,13 +38,14 @@ h1 {
     cursor: pointer;
     font-size: 0.875rem;
     letter-spacing: 1.75px;
-    padding: 5px 8px;
+    padding: 8px 15px;
 }
 
 .tab.current-tab{
-    background-color: rgb(101, 148, 239);
-    color: white;
+    background-color: #0079ff;
+    color: #f6f8ff;
     border-radius: 4px;
+    box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.5);
 }
 
 .weather-container{
@@ -59,10 +60,18 @@ h1 {
     font-size: 0.85rem;
     text-transform: uppercase;
     border-radius: 5px;
-    background-color: rgb(101, 148, 239);
+    background-color: #0079ff;
     cursor: pointer;
     padding: 10px 30px;
     margin-bottom: 10px;
+}
+
+.grant{
+    margin-top: 40px;
+}
+
+.grant:hover{
+    background-color: #60abff;
 }
 
 .sub-container{
@@ -169,6 +178,7 @@ h1 {
     gap:5px 0;
     /* justify-content: space-between; */
     align-items: center; 
+    box-shadow: 0px 16px 30px -10px rgba(0, 0, 0, 0.2);
 }   
 
 .parameter img{
@@ -209,15 +219,15 @@ h1 {
     padding: 0 20px;
     background-color:white;
     border-radius: 10px;
-    outline: 1px solid rgba(0, 0, 0, 0.459);
+    outline: 1px solid #4b6a9b;
 }
 
 .form-container input::placeholder{
-    color: rgba(0, 0, 0, 0.7);
+    color: #4b6a9b;
 }
 
 .form-container input:focus{
-    outline: 2px solid rgba(0, 0, 0, 0.7);
+    outline: 2px solid #4b6a9b;
 }
 
 .form-container .btn {
